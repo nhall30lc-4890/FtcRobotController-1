@@ -18,5 +18,10 @@ public class HelloWorld extends OpMode {
     @Override
     public void loop() {
 
+        /*
+        1. Hello: world, change the telemetary data to display "Hello: Your name"
+        2. Run this code in the Autonomous section of your DS
+         */
+
     }
 }
