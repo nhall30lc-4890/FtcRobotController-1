@@ -8,7 +8,6 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 
 @Autonomous
-@TeleOp
 public class HelloWorld extends OpMode {
 
     @Override

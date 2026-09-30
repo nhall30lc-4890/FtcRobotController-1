@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 public class VariablePractice extends OpMode {
     @Override
     public void init() {
-        int teamNumber = 23014;
+        int teamNumber = 4890;
         int motorAngle = 100;
         double motorSpeed = 0.75;
         boolean clawClosed = true;

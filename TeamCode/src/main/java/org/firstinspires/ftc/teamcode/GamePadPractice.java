@@ -19,7 +19,7 @@ public class GamePadPractice extends OpMode {
         telemetry.addData("x leftstick", gamepad1.left_stick_x);
         telemetry.addData("y leftstick",speedForward);
         telemetry.addData("a button", gamepad1.a);
-        telemetry.addData("b button", gamepad1.b)
+        telemetry.addData("b button", gamepad1.b);
         telemetry.addData("x rightstick", gamepad1.right_stick_x);
         telemetry.addData("y rightstick", gamepad1.right_stick_y);
         telemetry.addData("Differnce of X", gamepad1.left_stick_x - gamepad1.right_stick_x );
